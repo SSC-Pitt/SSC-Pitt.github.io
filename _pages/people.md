@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "People"
 excerpt: "Members of SSC Labs"
 sitemap: true
