@@ -2,6 +2,10 @@
 title: "People"
 excerpt: "Members of SSC Labs"
 sitemap: true
-permalink: /people
+permalink: /people.html
 ---
-Rosta Farzan
+
+<p>Rosta Farzan</p>
+<p>Xiaoyi Tian</p>
+<p>Xinchen</p>
+<p>Yingfan Zhou</p>
