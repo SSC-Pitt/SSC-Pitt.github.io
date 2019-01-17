@@ -3,10 +3,10 @@ main:
   - title: "Home"
     url: /
   - title: "People"
-    url: /people/
+    url: /people.html
   - title: "Projects"
-    url: /projects/
+    url: /projects.html
   - title: "Publications"
-    url: /publications/
+    url: /publications.html
   # - title: "Sitemap"
   #   url: /sitemap/
