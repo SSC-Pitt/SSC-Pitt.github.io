@@ -25,6 +25,7 @@ div.person {
 }
 
 div.person h3 {
+  margin-top: 0;
   font-size: 1.3em;
 }
 
@@ -50,6 +51,7 @@ div.profile-text p{
 }
 
 div.profile-text p.links{
+  text-decoration: none;
   margin-bottom: 5px;
   color: grey;
 }
