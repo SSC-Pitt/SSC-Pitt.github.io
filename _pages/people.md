@@ -1,10 +1,12 @@
 ---
+layout: single
+classes: wide
 title: "People"
 excerpt: "Members of SSC Labs"
 sitemap: true
 permalink: /people.html
 ---
-<h2>People</h2>
+<h2 classes="person">People</h2>
 <div class="person">
   <div class="profile-img">
     <img src="/assets/img/keyang.jpg" alt="" height="200" width="200">
