@@ -6,3 +6,45 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+div.person {
+  width: 90%;
+
+  margin-left: 5%;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+
+  border-bottom: 1px solid #ccc;
+}
+div.person div {
+  display: inline-block;
+}
+
+div.profile-img img{
+  border-radius: 10px;
+}
+
+div.profile-text{
+  margin-left: 20px;
+  width: 40em;
+  vertical-align: top;
+}
+
+div.profile-text p{
+  margin-bottom: 0;
+}
+
+div.profile-text p.links{
+  margin-bottom: 5px;
+  color: grey;
+}
+
+div.profile-text p.links a{
+  color: #A0C3FF;
+}
+
+div.profile-text p.info {
+  font-size: 1.1em
+}
