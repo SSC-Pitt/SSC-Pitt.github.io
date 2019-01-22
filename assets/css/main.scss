@@ -7,10 +7,10 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-h2.person {
-  margin-bottom: 30px;
-  padding-bottom: 20px;
-}
+// h2.person {
+//   margin-bottom: 30px;
+//   padding-bottom: 20px;
+// }
 
 div.person {
   width: 90%;
@@ -23,6 +23,11 @@ div.person {
 
   border-bottom: 1px solid #ccc;
 }
+
+div.person h3 {
+  font-size: 1.3em;
+}
+
 div.person div {
   display: inline-block;
 }
@@ -41,6 +46,7 @@ div.profile-text{
 
 div.profile-text p{
   margin-bottom: 0;
+  font-size: 0.95em;
 }
 
 div.profile-text p.links{
@@ -50,8 +56,4 @@ div.profile-text p.links{
 
 div.profile-text p.links a{
   color: #A0C3FF;
-}
-
-div.profile-text p.info, div.profile-text p.info{
-  font-size: 1em
 }
