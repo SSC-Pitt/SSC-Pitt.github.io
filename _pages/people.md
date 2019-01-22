@@ -1,5 +1,4 @@
 ---
-layout: single
 classes: wide
 title: "People"
 excerpt: "Members of SSC Labs"
