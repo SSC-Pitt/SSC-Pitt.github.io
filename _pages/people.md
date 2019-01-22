@@ -6,16 +6,14 @@ excerpt: "Members of SSC Labs"
 sitemap: true
 permalink: /people.html
 ---
-###Peoples
-===
 <div class="person">
   <div class="profile-img">
-    <img src="keyang.jpg" alt="" height="200" width="200">
+    <img src="/assets/img/keyang.jpg" alt="" height="200" width="200">
   </div>
   <div class="profile-text">
-    <h2>
+    <h3>
       Keyang Zheng
-    </h2>
+    </h3>
     <p class="links">
       <a href="https://blog.keyang.xyz">Email</a>
       •
