@@ -20,7 +20,7 @@ permalink: /people.html
       •
       <a href="https://blog.keyang.xyz">Website</a>
     </p>
-    <p class="info"><b>PhD student<\b> in information science.</p>
+    <p class="info"><b>PhD student</b> in information science.</p>
   </div>
 </div>
 
