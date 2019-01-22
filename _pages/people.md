@@ -20,7 +20,8 @@ permalink: /people.html
       •
       <a href="https://blog.keyang.xyz">Website</a>
     </p>
-    <p class="info"><b>PhD student</b> in information science.</p>
+    <p class="info">PhD student in information science.</p>
+    <p class="research"><b>Research</b>: Human Computer Interaction, Online Collaboration, Game Analysis, Agent Based Modeling</p>
   </div>
 </div>
 
