@@ -6,7 +6,7 @@ excerpt: "Members of SSC Labs"
 sitemap: true
 permalink: /people.html
 ---
-<h2 classes="person">People</h2>
+<!-- <h2 classes="person">People</h2> -->
 <div class="person">
   <div class="profile-img">
     <img src="/assets/img/keyang.jpg" alt="" height="200" width="200">
@@ -16,11 +16,11 @@ permalink: /people.html
       Keyang Zheng
     </h3>
     <p class="links">
-      <a href="https://blog.keyang.xyz">Email</a>
+      <a href="mailto:kez20@pitt.edu">Email</a>
       •
       <a href="https://blog.keyang.xyz">Website</a>
     </p>
-    <p class="info">Keyang is a PhD student in information science.</p>
+    <p class="info"><b>PhD student<\b> in information science.</p>
   </div>
 </div>
 
