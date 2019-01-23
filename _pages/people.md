@@ -36,7 +36,7 @@ permalink: /people.html
   </div>
 </div>
 
-<hr />
+
 <div class="person">
   <div class="profile-img">
     <!-- put your profile picture in the /assets/img/ folder, please choose a square picture (H:W=1:1), and then change the value of src to your picture location. -->
