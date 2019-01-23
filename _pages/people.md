@@ -1,4 +1,4 @@
----
+﻿---
 layout: single
 classes: wide
 title: "People"
@@ -57,7 +57,22 @@ permalink: /people.html
   </div>
 </div>
 
+<div class="person">
+  <div class="profile-img">
+    <img src="/assets/img/XiaoyiImg.jpg" alt="" height="200" width="200">
+  </div>
+  <div class="profile-text">
+    <h3>
+      Xiaoyi Tian
+    </h3>
+    <p class="links">
+      <a href="mailto:xit33@pitt.edu">Email</a>
+     </p>
+    <p class="info">Master student in information science.</p>
+    <p class="research"><b>Research</b>: Social Computing; Nonprofit Organizations; Social Media </p>
+  </div>
+</div>
 
-<p>Xiaoyi Tian</p>
+
 <p>Xinchen</p>
 <p>Yingfan Zhou</p>
