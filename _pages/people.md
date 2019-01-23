@@ -74,5 +74,22 @@ permalink: /people.html
 </div>
 
 
-<p>Xinchen Yu</p>
+<div class="person">
+  <div class="profile-img">
+    <img src="/assets/img/Xinchen.jpg" alt="" height="200" width="200">
+  </div>
+  <div class="profile-text">
+    <h3>
+      Xinchen Yu
+    </h3>
+    <p class="links">
+      <a href="mailto:xiy82@pitt.edu">Email</a>
+      •
+      <a href="https://sites.google.com/view/xinchen-yu/">Website</a>
+     </p>
+    <p class="info">Master student in information science.</p>
+    <p class="research"><b>Research</b>: Human Computer Interaction; Community Engagement </p>
+  </div>
+</div>
+
 <p>Yingfan Zhou</p>
