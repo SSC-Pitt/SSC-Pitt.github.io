@@ -88,7 +88,7 @@ permalink: /people.html
       <a href="https://sites.google.com/view/xinchen-yu/">Website</a>
      </p>
     <p class="info">Master student in information science.</p>
-    <p class="research"><b>Research</b>: Human Computer Interaction; Community Engagement </p>
+    <p class="research"><b>Research</b>: Human Computer Interaction; Community Engagement; Information Literacy </p>
   </div>
 </div>
 
