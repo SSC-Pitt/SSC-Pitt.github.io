@@ -74,5 +74,5 @@ permalink: /people.html
 </div>
 
 
-<p>Xinchen</p>
+<p>Xinchen Yu</p>
 <p>Yingfan Zhou</p>
