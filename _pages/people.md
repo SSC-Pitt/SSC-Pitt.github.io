@@ -8,7 +8,7 @@ permalink: /people.html
 ---
 <!-- Please copy the whole div part, and change the value to your own according to the notes, just put your version before or under others' div. No need to wrap it into other structures. -->
 <!-- Please change the order of people in some reasonable manner,  don't steal Rosta's No.1 spot. -->
-<p>Rosta Farzan</p>
+
 
 <hr />
 
