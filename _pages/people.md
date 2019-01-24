@@ -92,4 +92,18 @@ permalink: /people.html
   </div>
 </div>
 
-<p>Yingfan Zhou</p>
+<div class="person">
+  <div class="profile-img">
+    <img src="/assets/img/yingfan.JPG" alt="" height="200" width="200">
+  </div>
+  <div class="profile-text">
+    <h3>
+      Yingfan Zhou
+    </h3>
+    <p class="links">
+      <a href="mailto:yiz142@pitt.edu">Email</a>
+     </p>
+    <p class="info">Master student in information science.</p>
+    <p class="research"><b>Research</b>: Social Computing; Online communities </p>
+  </div>
+</div>
