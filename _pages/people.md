@@ -14,6 +14,25 @@ permalink: /people.html
 
 <div class="person">
   <div class="profile-img">
+    <img src="/assets/img/rosta.jpg" alt="" height="200" width="200">
+  </div>
+  <div class="profile-text">
+    <h3>
+      Rosta Farzan
+    </h3>
+    <p class="links">
+      <a href="mailto:rfarzan@pitt.edu">Email</a>
+      •
+      <a href="http://rosta-farzan.net/">Website</a>
+    </p>
+    <p class="info">Associate Professor</p>
+  </div>
+</div>
+
+
+
+<div class="person">
+  <div class="profile-img">
     <img src="/assets/img/AngProfilePhotoCrop1.jpg" alt="" height="200" width="200">
   </div>
   <div class="profile-text">
