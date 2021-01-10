@@ -25,8 +25,8 @@ permalink: /people.html
       •
       <a href="http://rosta-farzan.net/">Website</a>
     </p>
-    <p class="info">Associate Professor<br/>Asoociate Dean of Diversity, Equity, and Inclusion</p>
-    <p class="info">Affiliate at Pitt Cyber Institute</p>
+    <p class="info"><a href="https://sci.pitt.edu">SCI</a> Associate Professor<br/>Asoociate Dean of Diversity, Equity, and Inclusion</p>
+    <p class="info">Affiliate Scholar at <a href="https://www.cyber.pitt.edu/">Pitt Cyber Institute</a></p>
     <p class="research"><b>Research</b>: Social Computing; Human Computer Interaction;  Community Informatics; Information Technology for Development; Online Production Communities; Hyperlocal Online Communities;</p>
   </div>
 </div>
