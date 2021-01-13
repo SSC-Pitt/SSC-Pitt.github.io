@@ -86,8 +86,10 @@ permalink: /people.html
     </h3>
     <p class="links">
       <a href="mailto:yiz142@pitt.edu">Email</a>
+      •
+      <a href="https://yfanzhou.github.io/">Website</a>
      </p>
-    <p class="info">Master student in information science.</p>
+    <p class="info">PhD student in information science.</p>
     <p class="research"><b>Research</b>: Social Computing; Online communities </p>
   </div>
 </div>
