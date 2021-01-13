@@ -138,9 +138,9 @@ permalink: /people.html
       Ben Stein
     </h3>
     <p class="links">
-      <a href="https://benstein.io">Personal site</a> ·
-      <a href="https://www.instagram.com/bensstein">Instagram</a> ·
       <a href="mailto:ben.stein@pitt.edu">Email</a> ·
+      <a href="https://benstein.io">Website</a> ·
+      <a href="https://www.instagram.com/bensstein">Instagram</a> ·
       <a href="https://soundcloud.com/awake-in-pittsburgh">Ben by night</a>
      </p>
     <p class="info">PhD student in information science</p>
