@@ -128,3 +128,22 @@ permalink: /people.html
     <p class="research"><b>Research</b>: Social Computing; Online communities </p>
   </div>
 </div>
+
+<div class="person">
+  <div class="profile-img">
+    <img src="/assets/img/ben-avatar.jpg" alt="Photo of Ben" height="200" width="200">
+  </div>
+  <div class="profile-text">
+    <h3>
+      Ben Stein
+    </h3>
+    <p class="links">
+      <a href="https://benstein.io">Personal site</a>
+      <a href="https://www.instagram.com/bensstein">Instagram</a>
+      <a href="mailto:ben.stein@pitt.edu">Email</a>
+      <a href="https://soundcloud.com/awake-in-pittsburgh">Ben by night</a>
+     </p>
+    <p class="info">PhD student in information science</p>
+    <p class="research"><b>Research</b>: Cyberbullying Mitigation & Intervention; Data Mining; Social Computing</p>
+  </div>
+</div>
