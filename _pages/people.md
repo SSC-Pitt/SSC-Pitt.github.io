@@ -115,7 +115,7 @@ permalink: /people.html
   <h2>
     Past Members
   </h2>
-  </h>
+  <hr />
 </div>
 
 <div class="person">
