@@ -113,6 +113,24 @@ permalink: /people.html
   </div>
 </div>
 
+<div class="person">
+  <div class="profile-img">
+    <img src="/assets/img/pranut.jpg" alt="Pranut" height="200" width="200">
+  </div>
+  <div class="profile-text">
+    <h3>
+      Pranut Jain
+    </h3>
+    <p class="links">
+      <a href="https://people.cs.pitt.edu/~pranut/">Personal site</a>
+      •
+      <a href="mailto:pranut@cs.pitt.edu">Email</a>
+     </p>
+    <p class="info">PhD student in computer science.</p>
+    <p class="research"><b>Research</b>: IM Awareness; Context-Aware Agents; IoT Setup Management and Modeling; Privacy</p>
+  </div>
+</div>
+
 <div class="subtitle">
   <h2>
     Past Members
