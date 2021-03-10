@@ -1,1 +1,3 @@
-console.log('LOADED!')
+$(document).ready(() => {
+    console.log('Doc ready')
+})
