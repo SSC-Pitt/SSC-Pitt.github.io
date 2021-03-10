@@ -31,8 +31,6 @@ permalink: /people.html
   </div>
 </div>
 
-
-
 <div class="person">
   <div class="profile-img">
     <img src="/assets/img/AngProfilePhotoCrop1.jpg" alt="" height="200" width="200">
@@ -80,41 +78,6 @@ permalink: /people.html
 
 <div class="person">
   <div class="profile-img">
-    <img src="/assets/img/XiaoyiImg.jpg" alt="" height="200" width="200">
-  </div>
-  <div class="profile-text">
-    <h3>
-      Xiaoyi Tian
-    </h3>
-    <p class="links">
-      <a href="mailto:xit33@pitt.edu">Email</a>
-     </p>
-    <p class="info">Master student in information science.</p>
-    <p class="research"><b>Research</b>: Social Computing; Nonprofit Organizations; Social Media </p>
-  </div>
-</div>
-
-
-<div class="person">
-  <div class="profile-img">
-    <img src="/assets/img/Xinchen.jpg" alt="" height="200" width="200">
-  </div>
-  <div class="profile-text">
-    <h3>
-      Xinchen Yu
-    </h3>
-    <p class="links">
-      <a href="mailto:xiy82@pitt.edu">Email</a>
-      •
-      <a href="https://sites.google.com/view/xinchen-yu/">Website</a>
-     </p>
-    <p class="info">Master student in information science.</p>
-    <p class="research"><b>Research</b>: Human Computer Interaction; Community Engagement; Information Literacy </p>
-  </div>
-</div>
-
-<div class="person">
-  <div class="profile-img">
     <img src="/assets/img/yingfan.JPG" alt="" height="200" width="200">
   </div>
   <div class="profile-text">
@@ -123,8 +86,10 @@ permalink: /people.html
     </h3>
     <p class="links">
       <a href="mailto:yiz142@pitt.edu">Email</a>
+      •
+      <a href="https://yfanzhou.github.io/">Website</a>
      </p>
-    <p class="info">Master student in information science.</p>
+    <p class="info">PhD student in information science.</p>
     <p class="research"><b>Research</b>: Social Computing; Online communities </p>
   </div>
 </div>
@@ -138,12 +103,109 @@ permalink: /people.html
       Ben Stein
     </h3>
     <p class="links">
-      <a href="mailto:ben.stein@pitt.edu">Email</a> ·
-      <a href="https://benstein.io">Website</a> ·
+      <a href="https://benstein.io">Personal site</a> ·
       <a href="https://www.instagram.com/bensstein">Instagram</a> ·
-      <a href="https://soundcloud.com/awake-in-pittsburgh">Ben by night</a>
+      <a href="mailto:ben.stein@pitt.edu">Email</a> ·
+      <a href="https://soundcloud.com/awake-in-pittsburgh">Ben by night</a> ·
      </p>
     <p class="info">PhD student in information science</p>
     <p class="research"><b>Research</b>: Cyberbullying Mitigation & Intervention; Data Mining; Social Computing</p>
+  </div>
+</div>
+
+<div class="person">
+  <div class="profile-img">
+    <img src="/assets/img/pranut.jpg" alt="Pranut" height="200" width="200">
+  </div>
+  <div class="profile-text">
+    <h3>
+      Pranut Jain
+    </h3>
+    <p class="links">
+      <a href="https://people.cs.pitt.edu/~pranut/">Personal site</a>
+      •
+      <a href="mailto:pranut@cs.pitt.edu">Email</a>
+     </p>
+    <p class="info">PhD student in computer science.</p>
+    <p class="research"><b>Research</b>: IM Awareness; Context-Aware Agents; IoT Setup Management and Modeling; Privacy</p>
+  </div>
+</div>
+
+<div class="subtitle">
+  <h2>
+    Past Members
+  </h2>
+  <hr />
+</div>
+
+<div class="person">
+  <div class="profile-img">
+    <img src="https://via.placeholder.com/200x200?text=Placeholder_pic" alt="" height="200" width="200">
+  </div>
+  <div class="profile-text">
+    <h3>
+      Claudia López
+    </h3>
+    <p class="links">
+      <a href="https://claudialopezsite.wordpress.com/">Website</a>
+     </p>
+    <p class="where">Assistant Professor @ Departamento de Informática, UTFSM, Chile</p>
+  </div>
+</div>
+
+<div class="person">
+  <div class="profile-img">
+    <img src="/assets/img/di_pic.jpg" alt="" height="200" width="200">
+  </div>
+  <div class="profile-text">
+    <h3>
+      Di Lu
+    </h3>
+    <p class="where">Senior Quantitative UX Researcher @ Facebook</p>
+  </div>
+</div>
+
+<div class="person">
+  <div class="profile-img">
+    <img src="/assets/img/profilepic_alex.jpg" alt="" height="200" width="200">
+  </div>
+  <div class="profile-text">
+    <h3>
+      Alexander Nolte
+    </h3>
+    <p class="links">
+      <a href="https://alexandernolte.github.io/">Website</a>
+     </p>
+    <p class="where">Associate Professor @ the University of Tartu</p>
+  </div>
+</div>
+
+<div class="person">
+  <div class="profile-img">
+    <img src="/assets/img/XiaoyiImg.jpg" alt="" height="200" width="200">
+  </div>
+  <div class="profile-text">
+    <h3>
+      Xiaoyi Tian
+    </h3>
+    <p class="links">
+      <a href="https://txiaoyi.com/">Website</a>
+     </p>
+    <p class="where">PhD student @ University of Florida</p>
+  </div>
+</div>
+
+<div class="person">
+  <div class="profile-img">
+    <img src="/assets/img/Xinchen.jpg" alt="" height="200" width="200">
+  </div>
+  <div class="profile-text">
+    <h3>
+      Xinchen Yu
+    </h3>
+    <p class="links">
+      <a href="https://sites.google.com/view/xinchen-yu/">Website</a>
+     </p>
+    <p class="where">PhD student @ University of North Texas</p>
   </div>
 </div>
