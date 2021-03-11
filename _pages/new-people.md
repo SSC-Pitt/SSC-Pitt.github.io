@@ -1,14 +1,14 @@
-﻿---
+---
+title: "New People"
+excerpt: "People, but fixed?"
+sitemap: true
+permalink: /new-people.html
 layout: single
 classes: wide
-title: "People"
-excerpt: "Members of SSC Labs"
-sitemap: true
-permalink: /people.html
 ---
+
 <!-- Please copy the whole div part, and change the value to your own according to the notes, just put your version before or under others' div. No need to wrap it into other structures. -->
 <!-- Please change the order of people in some reasonable manner,  don't steal Rosta's No.1 spot. -->
-
 
 <hr />
 
@@ -33,7 +33,7 @@ permalink: /people.html
 
 <div class="person">
   <div class="profile-img">
-    <img src="/assets/img/AngProfilePhotoCrop1.jpg" alt="" height="200" width="200">
+    <img src="/assets/img/AngProfilePhotoCrop1.jpg" alt="Picture of Ang Li" height="200" width="200">
   </div>
   <div class="profile-text">
     <h3>
@@ -54,7 +54,7 @@ permalink: /people.html
 <div class="person">
   <div class="profile-img">
     <!-- put your profile picture in the /assets/img/ folder, please choose a square picture (H:W=1:1), and then change the value of src to your picture location. -->
-    <img src="/assets/img/keyang.jpg" alt="" height="200" width="200">
+    <img src="/assets/img/keyang.jpg" alt="Picture of Keyang Zheng" height="200" width="200">
   </div>
   <div class="profile-text">
     <h3>
@@ -78,7 +78,7 @@ permalink: /people.html
 
 <div class="person">
   <div class="profile-img">
-    <img src="/assets/img/yingfan.JPG" alt="" height="200" width="200">
+    <img src="/assets/img/yingfan.JPG" alt="Picture of Yingfan Zhou" height="200" width="200">
   </div>
   <div class="profile-text">
     <h3>
@@ -90,13 +90,13 @@ permalink: /people.html
       <a href="https://yfanzhou.github.io/">Website</a>
      </p>
     <p class="info">PhD student in information science.</p>
-    <p class="research"><b>Research</b>: Social Computing; Online communities </p>
+    <p class="research"><b>Research</b>: Social Computing; Online communities</p>
   </div>
 </div>
 
 <div class="person">
   <div class="profile-img">
-    <img src="/assets/img/ben-avatar.jpg" alt="Photo of Ben" height="200" width="200">
+    <img src="/assets/img/ben-avatar.jpg" alt="Photo of Ben, a ruggedly handsome smiling man" height="200" width="200">
   </div>
   <div class="profile-text">
     <h3>
@@ -106,7 +106,7 @@ permalink: /people.html
       <a href="https://benstein.io">Personal site</a> ·
       <a href="https://www.instagram.com/bensstein">Instagram</a> ·
       <a href="mailto:ben.stein@pitt.edu">Email</a> ·
-      <a href="https://soundcloud.com/awake-in-pittsburgh">Ben by night</a> ·
+      <a href="https://soundcloud.com/awake-in-pittsburgh">Ben by night</a>
      </p>
     <p class="info">PhD student in information science</p>
     <p class="research"><b>Research</b>: Cyberbullying Mitigation & Intervention; Data Mining; Social Computing</p>
