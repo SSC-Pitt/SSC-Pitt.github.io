@@ -93,6 +93,22 @@ permalink: /people.html
   </div>
 </div>
 
+<div class="person">
+  <div class="profile-img">
+    <img src="/assets/img/abhishek.jpg" alt="Abhishek" height="200" width="200">
+  </div>
+  <div class="profile-text">
+    <h3>
+      Abhishek Viswanathan
+    </h3>
+    <p class="links">
+        <a href="mailto:abv13@pitt.edu">Email</a>
+     </p>
+    <p class="info">PhD student in Information Science - Telecommunications</p>
+    <p class="research"><b>Research</b>: Community Science, Low-cost Sensing, Accessibility of Environmental Data</p>
+  </div>
+</div>
+
 <div class="subtitle">
   <h2>
     Past Members
