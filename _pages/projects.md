@@ -13,22 +13,23 @@ permalink: /projects.html
 </div>
 
 <div>
-    <h3>Designing for Awareness</h3>
-    <p class="info">This project explores solutions to the lack of situational awareness in mobile messaging. We aim to understand how we can leverage virtual assistants to            inform the availability of their users. At the same time, another focus of this project is to make the functions of virtual assistants open and understandable to their         users, especially when these technologies involve AI and Machine Learning. This project encompasses multiple research aspects, including user modeling, technology design,          user-centric privacy, human-agent interactions, and explainable AI.
+    ## Designing for Awareness
+    This project explores solutions to the issue of lack of situational awareness in mobile messaging. We aim to understand how we can leverage virtual assistants to inform availability of their users. At the same time, another focus of this project is to make functions of virtual assistants open and understandable to their users especially when these technologies involve AI and Machine Learniing. This project encompasses multiple research aspects including user modeling, technology design, user-centric privacy, human-agent interactions and explainable AI. 
 
-        You can find more information about this project <a href="https://people.cs.pitt.edu/~pranut/messaging_study/index.html">here</a>.</p>
+More information about this project can be found <a href='https://people.cs.pitt.edu/~pranut/messaging_study/index.html'>here</a>
+
     
+    Publications related to this project:
+    Jain, Pranut, Rosta Farzan, and Adam J. Lee. "Context-based Automated Responses of Unavailability in Mobile Messaging." Computer Supported Cooperative Work (CSCW) 30.3 (2021): 307-349.
     
-    <p class="info">Publications related to this project:
-    Jain, Pranut, Rosta Farzan, and Adam J. Lee. "Context-based Automated Responses of Unavailability in Mobile Messaging." Computer Supported Cooperative Work (CSCW) 30.3             (2021): 307-349.</p>
+    Jain, Pranut, Rosta Farzan, and Adam J. Lee. "Adaptive modelling of attentiveness to messaging: A hybrid approach." Proceedings of the 27th ACM Conference on User Modeling, Adaptation and Personalization. 2019.
     
-    <p class="info">Jain, Pranut, Rosta Farzan, and Adam J. Lee. "Adaptive modelling of attentiveness to messaging: A hybrid approach." Proceedings of the 27th ACM Conference on       User Modeling, Adaptation and Personalization. 2019.</p>
-    
-    <p class="info">Jain, Pranut, Rosta Farzan, and Adam J. Lee. "Are You There? Identifying Unavailability in Mobile Messaging." Extended Abstracts of the 2019 CHI Conference         on Human Factors in Computing Systems. 2019.</p>
+    Jain, Pranut, Rosta Farzan, and Adam J. Lee. "Are You There? Identifying Unavailability in Mobile Messaging." Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems. 2019.
 </div>
 
 <div>
-    ## Understanding team communication through cooperative-competitive gaming
+    ## Understanding team communication through games
+    
 </div>
 
 <div>
