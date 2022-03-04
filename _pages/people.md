@@ -33,26 +33,6 @@ permalink: /people.html
 
 <div class="person">
   <div class="profile-img">
-    <img src="/assets/img/AngProfilePhotoCrop1.jpg" alt="" height="200" width="200">
-  </div>
-  <div class="profile-text">
-    <h3>
-      Ang Li
-    </h3>
-    <p class="links">
-      <a href="mailto:anl125@pitt.edu">Email</a>
-      •
-      <a href="https://littlerabbithole.github.io/">Website</a>
-      •
-      <a href="https://github.com/LittleRabbitHole">Github</a>
-    </p>
-    <p class="info">PhD student in information science.</p>
-    <p class="research"><b>Research</b>: Social Computing; Online Communities; Computational Social Science </p>
-  </div>
-</div>
-
-<div class="person">
-  <div class="profile-img">
     <!-- put your profile picture in the /assets/img/ folder, please choose a square picture (H:W=1:1), and then change the value of src to your picture location. -->
     <img src="/assets/img/keyang.jpg" alt="" height="200" width="200">
   </div>
@@ -73,24 +53,6 @@ permalink: /people.html
     <p class="info">PhD student in information science.</p>
     <!-- Next is your research interests, if you are not sure or not decided yet, just skip this section all together, don't delete <b>Research</b>: if your are just writing the areas of your interests. And you can also write a short paragraph about your researches if you are the boss. -->
     <p class="research"><b>Research</b>: Human Computer Interaction, Online Collaboration, Game Analysis, Agent Based Modeling</p>
-  </div>
-</div>
-
-<div class="person">
-  <div class="profile-img">
-    <img src="/assets/img/yingfan.JPG" alt="" height="200" width="200">
-  </div>
-  <div class="profile-text">
-    <h3>
-      Yingfan Zhou
-    </h3>
-    <p class="links">
-      <a href="mailto:yiz142@pitt.edu">Email</a>
-      •
-      <a href="https://yfanzhou.github.io/">Website</a>
-     </p>
-    <p class="info">PhD student in information science.</p>
-    <p class="research"><b>Research</b>: Social Computing; Online communities </p>
   </div>
 </div>
 
@@ -183,6 +145,25 @@ permalink: /people.html
 
 <div class="person">
   <div class="profile-img">
+    <img src="/assets/img/AngProfilePhotoCrop1.jpg" alt="" height="200" width="200">
+  </div>
+  <div class="profile-text">
+    <h3>
+      Ang Li
+    </h3>
+    <p class="links">
+      <a href="mailto:anl125@pitt.edu">Email</a>
+      •
+      <a href="https://littlerabbithole.github.io/">Website</a>
+      •
+      <a href="https://github.com/LittleRabbitHole">Github</a>
+    </p>
+    <p class="info">Research Scientist @ Spotify</p>
+  </div>
+</div>
+
+<div class="person">
+  <div class="profile-img">
     <img src="/assets/img/profilepic_alex.jpg" alt="" height="200" width="200">
   </div>
   <div class="profile-text">
@@ -223,5 +204,22 @@ permalink: /people.html
       <a href="https://sites.google.com/view/xinchen-yu/">Website</a>
      </p>
     <p class="where">PhD student @ University of North Texas</p>
+  </div>
+</div>
+
+<div class="person">
+  <div class="profile-img">
+    <img src="/assets/img/yingfan.JPG" alt="" height="200" width="200">
+  </div>
+  <div class="profile-text">
+    <h3>
+      Yingfan Zhou
+    </h3>
+    <p class="links">
+      <a href="mailto:yiz142@pitt.edu">Email</a>
+      •
+      <a href="https://yfanzhou.github.io/">Website</a>
+     </p>
+    <p class="info">PhD student @ Pennsylvania State University</p>
   </div>
 </div>
