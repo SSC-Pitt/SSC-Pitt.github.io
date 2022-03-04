@@ -95,7 +95,7 @@ permalink: /people.html
 
 <div class="person">
   <div class="profile-img">
-    <img src="/assets/img/abhishek.jpg" alt="Abhishek" height="200" width="200">
+    <img src="/assets/img/AbhishekViswanathan.jpg" alt="Abhishek" height="200" width="200">
   </div>
   <div class="profile-text">
     <h3>
