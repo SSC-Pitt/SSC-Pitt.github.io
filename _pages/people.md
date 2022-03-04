@@ -221,6 +221,5 @@ permalink: /people.html
       <a href="https://yfanzhou.github.io/">Website</a>
      </p>
     <p class="info">PhD student @ Pennsylvania State University</p>
-    <p class="research"><b>Research</b>: Social Computing; Online communities </p>
   </div>
 </div>
