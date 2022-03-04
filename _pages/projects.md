@@ -29,6 +29,16 @@ More information about this project can be found <a href='https://people.cs.pitt
     
 </div>
 
+<div>
+    <h3>Community Science for Air Quality Monitoring in Pittsburgh</h3>
+
+    Given its industrial past and present as a 'Steel City', Pittsburgh's air quality has a significant public health impact on its residents. We are working with community-based organizations and using citizen-science principles to deploy a network of low-cost air quality monitors to make environmental data more legible and accessible to communities. In collaboration with a local environmental non-profit organization, <a href = "https://upstreampgh.org/">UpstreamPgh</a>, we designed and deployed a ‘Social Sensor Network’ of <a href = "https://smartcitizen.me/">low-cost environmental sensors</a> in the Nine Mile Run Watershed in Pittsburgh, PA for a 3-month pilot project. A network of sensors automatically reporting air quality and other metrics was virtually connected to a closed social media platform (Slack), involving a group of tech-savvy participants with a strong interest in environmental issues. The project was designed to include automatic, active, interactive, and passive forms of engagement to give participants various avenues to contribute to data collection, exploration, and interpretation. We are currently working on expanding the network to other communities, and designing workshops to use the data collected to tell <i>data stories</i> connecting local issues to global issues.
+    
+</div>
+
+<div>
+   ## Participatory design
+</div>
 ## Participatory design
 
 "Co-creation" is any act of creativity undertaken by two or more people ([Sanders & Stappers, 2008](https://www.tandfonline.com/doi/full/10.1080/15710880701875068)). In the world of human-computer interaction, a very common application of co-creation is that of participatory design, a process in which researchers and users work together over time to create systems. The process enables allows the final product to incorporate the expertise of researchers, who are often experts in a relevant subject, with that of users, who are experts in the perspective of a system user. Participatory design has been shown to lead to more equitable designs which enjoy more acceptance and are more effective in their purpose.
