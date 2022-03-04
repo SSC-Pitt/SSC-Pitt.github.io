@@ -28,8 +28,8 @@ More information about this project can be found <a href='https://people.cs.pitt
 </div>
 
 <div>
-    ## Understanding team communication through games
-    
+    ## Team Communication in Games
+    This project aims to undertand human player's communication behaviors in collaborative competitive eSports games. We are particularly interested in player's implicit communications during the game, the intention of these communication, and the means of such communication (e.g. using Pings, or a sequence of actions).  
 </div>
 
 <div>
