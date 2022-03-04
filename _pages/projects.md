@@ -36,10 +36,14 @@ More information about this project can be found <a href='https://people.cs.pitt
     
 </div>
 
-<div>
-   ## Participatory design
-</div>
 ## Participatory design
+
+### Investigators
+
+- Ben Stein
+- Dr. Rosta Farzan
+
+### Summary
 
 "Co-creation" is any act of creativity undertaken by two or more people ([Sanders & Stappers, 2008](https://www.tandfonline.com/doi/full/10.1080/15710880701875068)). In the world of human-computer interaction, a very common application of co-creation is that of participatory design, a process in which researchers and users work together over time to create systems. The process enables allows the final product to incorporate the expertise of researchers, who are often experts in a relevant subject, with that of users, who are experts in the perspective of a system user. Participatory design has been shown to lead to more equitable designs which enjoy more acceptance and are more effective in their purpose.
 
