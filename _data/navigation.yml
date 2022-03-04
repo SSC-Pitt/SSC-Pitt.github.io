@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "People"
-    url: /new-people.html
+    url: /people.html
   - title: "Projects"
     url: /projects.html
   - title: "Publications"

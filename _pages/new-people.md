@@ -1,8 +1,8 @@
 ---
-title: "New People"
+title: "People"
 excerpt: "People, but fixed?"
 sitemap: true
-permalink: /new-people.html
+permalink: /people.html
 layout: single
 classes: wide
 ---
