@@ -12,6 +12,9 @@
 //   padding-bottom: 20px;
 // }
 
+div.news {
+  font-size: 10pt;
+}
 div.person {
   width: 90%;
 
@@ -69,4 +72,8 @@ div.profile-text p.links a{
   width: 220px;
   height: 220px;
   display: block;
+}
+/*  PROJECTS */
+.projects-page {
+  padding:2rem;
 }
