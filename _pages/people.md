@@ -68,7 +68,7 @@ permalink: /people.html
       <a href="https://benstein.io">Personal site</a> ·
       <a href="https://www.instagram.com/bensstein">Instagram</a> ·
       <a href="mailto:ben.stein@pitt.edu">Email</a> ·
-      <a href="https://soundcloud.com/awake-in-pittsburgh">Ben by night</a> ·
+      <a href="https://soundcloud.com/awake-in-pittsburgh">Ben by night</a>
      </p>
     <p class="info">PhD student in information science</p>
     <p class="research"><b>Research</b>: Cyberbullying Mitigation & Intervention; Data Mining; Social Computing</p>
@@ -95,7 +95,7 @@ permalink: /people.html
 
 <div class="person">
   <div class="profile-img">
-    <img src="/assets/img/abhishek.jpg" alt="Abhishek" height="200" width="200">
+    <img src="/assets/img/AbhishekViswanathan.jpg" alt="Abhishek" height="200" width="200">
   </div>
   <div class="profile-text">
     <h3>
