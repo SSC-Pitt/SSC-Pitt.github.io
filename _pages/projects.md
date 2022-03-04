@@ -18,9 +18,8 @@ permalink: /projects.html
 
         You can find more information about this project <a href="https://people.cs.pitt.edu/~pranut/messaging_study/index.html">here</a>.</p>
     
-    
-    <p class="info">Publications related to this project:
-    Jain, Pranut, Rosta Farzan, and Adam J. Lee. "Context-based Automated Responses of Unavailability in Mobile Messaging." Computer Supported Cooperative Work (CSCW) 30.3             (2021): 307-349.</p>
+    <p class="info">Publications related to this project:</p>
+    <p class="info"> Jain, Pranut, Rosta Farzan, and Adam J. Lee. "Context-based Automated Responses of Unavailability in Mobile Messaging." Computer Supported Cooperative Work (CSCW) 30.3 (2021): 307-349.</p>
     
     <p class="info">Jain, Pranut, Rosta Farzan, and Adam J. Lee. "Adaptive modelling of attentiveness to messaging: A hybrid approach." Proceedings of the 27th ACM Conference on       User Modeling, Adaptation and Personalization. 2019.</p>
     
