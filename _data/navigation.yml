@@ -6,5 +6,7 @@ main:
     url: /people.html
   - title: "Projects"
     url: /projects.html
+  - title: "Publications"
+    url: /publications.html
   # - title: "Sitemap"
   #   url: /sitemap/
