@@ -32,6 +32,54 @@ permalink: /people.html
 
 <div class="person">
   <div class="profile-img">
+    <img src="/assets/img/PatHealy.jpg" alt="Pat" height="200" width="200">
+  </div>
+  <div class="profile-text">
+    <h3>
+      Pat Healy
+    </h3>
+    <p class="links">
+        <a href="mailto:pwh5@pitt.edu">Email</a>
+     </p>
+    <p class="info">PhD Student in Information Science</p>
+    <p class="research"><b>Research</b>: Serious Games in Healthcare, Virtual Worlds, </p>
+  </div>
+</div>
+
+<div class="person">
+  <div class="profile-img">
+    <img src="/assets/img/Pat.png" alt="Pat" height="200" width="200">
+  </div>
+  <div class="profile-text">
+    <h3>
+      Pat Healy
+    </h3>
+    <p class="links">
+        <a href="mailto:pwh5@pitt.edu">Email</a>
+     </p>
+    <p class="info">PhD Student in Information Science</p>
+    <p class="research"><b>Research</b>: Serious Games in Healthcare, Virtual Worlds, </p>
+  </div>
+</div>
+
+<div class="person">
+  <div class="profile-img">
+    <img src="/assets/img/Jennifer.jpg" alt="Abhishek" height="200" width="200">
+  </div>
+  <div class="profile-text">
+    <h3>
+      Jennifer Nwogu
+    </h3>
+    <p class="links">
+        <a href="mailto:jen97@pitt.edu">Email</a>
+     </p>
+    <p class="info">PhD student in Information Science</p>
+    <p class="research"><b>Research</b>: </p>
+  </div>
+</div>
+
+<div class="person">
+  <div class="profile-img">
     <!-- put your profile picture in the /assets/img/ folder, please choose a square picture (H:W=1:1), and then change the value of src to your picture location. -->
     <img src="/assets/img/keyang.jpg" alt="" height="200" width="200">
   </div>
@@ -52,23 +100,6 @@ permalink: /people.html
     <p class="info">PhD student in information science.</p>
     <!-- Next is your research interests, if you are not sure or not decided yet, just skip this section all together, don't delete <b>Research</b>: if your are just writing the areas of your interests. And you can also write a short paragraph about your researches if you are the boss. -->
     <p class="research"><b>Research</b>: Human Computer Interaction, Online Collaboration, Game Analysis, Agent Based Modeling</p>
-  </div>
-</div>
-
-
-<div class="person">
-  <div class="profile-img">
-    <img src="/assets/img/AbhishekViswanathan.jpg" alt="Abhishek" height="200" width="200">
-  </div>
-  <div class="profile-text">
-    <h3>
-      Abhishek Viswanathan
-    </h3>
-    <p class="links">
-        <a href="mailto:abv13@pitt.edu">Email</a>
-     </p>
-    <p class="info">PhD student in Information Science - Telecommunications</p>
-    <p class="research"><b>Research</b>: Community Science, Low-cost Sensing, Accessibility of Environmental Data</p>
   </div>
 </div>
 
