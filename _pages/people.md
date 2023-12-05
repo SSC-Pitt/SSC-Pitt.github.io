@@ -32,23 +32,7 @@ permalink: /people.html
 
 <div class="person">
   <div class="profile-img">
-    <img src="/assets/img/PatHealy.jpg" alt="Pat" height="200" width="200">
-  </div>
-  <div class="profile-text">
-    <h3>
-      Pat Healy
-    </h3>
-    <p class="links">
-        <a href="mailto:pwh5@pitt.edu">Email</a>
-     </p>
-    <p class="info">PhD Student in Information Science</p>
-    <p class="research"><b>Research</b>: Serious Games in Healthcare, Virtual Worlds, </p>
-  </div>
-</div>
-
-<div class="person">
-  <div class="profile-img">
-    <img src="/assets/img/Pat.png" alt="Pat" height="200" width="200">
+    <img src="/assets/img/Pat.jpg" alt="Pat" height="200" width="200">
   </div>
   <div class="profile-text">
     <h3>
@@ -94,12 +78,12 @@ permalink: /people.html
       <a href="mailto:kez20@pitt.edu">Email</a>
       <!-- the value of href is the address of this link, and the value between <a></a> tag is what people will actually see on the website -->
       •
-      <a href="https://blog.keyang.xyz">Website</a>
+      <a href="https://keyangz.me">Website</a>
     </p>
     <!-- Well this is obvious, change the value accordingly. -->
     <p class="info">PhD student in information science.</p>
     <!-- Next is your research interests, if you are not sure or not decided yet, just skip this section all together, don't delete <b>Research</b>: if your are just writing the areas of your interests. And you can also write a short paragraph about your researches if you are the boss. -->
-    <p class="research"><b>Research</b>: Human Computer Interaction, Online Collaboration, Game Analysis, Agent Based Modeling</p>
+    <p class="research"><b>Research</b>: Human Computer Interaction, Online Collaboration, Game Analysis, Human Agent Teaming</p>
   </div>
 </div>
 
