@@ -4,7 +4,7 @@ excerpt: "List of publications"
 sitemap: true
 permalink: /publications.html
 ---
-<h3>Recent Publications in Reverse Chronological Order</h3>
+<h3>Recent Publications by SSC Lab Members in Reverse Chronological Order</h3>
 
 <div class="publication">
         <a href="https://papers.academic-conferences.org/index.php/ecgbl/article/view/1634" class="title">Enter the Paraverse: Challenging Assumptions of Live Music in the Metaverse</a>
