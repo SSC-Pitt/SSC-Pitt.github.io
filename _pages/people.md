@@ -32,22 +32,6 @@ permalink: /people.html
 
 <div class="person">
   <div class="profile-img">
-    <img src="/assets/img/PatHealy.jpg" alt="Pat" height="200" width="200">
-  </div>
-  <div class="profile-text">
-    <h3>
-      Pat Healy
-    </h3>
-    <p class="links">
-        <a href="mailto:pwh5@pitt.edu">Email</a>
-     </p>
-    <p class="info">PhD Student in Information Science</p>
-    <p class="research"><b>Research</b>: Serious Games in Healthcare, Virtual Worlds, </p>
-  </div>
-</div>
-
-<div class="person">
-  <div class="profile-img">
     <img src="/assets/img/Pat.jpg" alt="Pat" height="200" width="200">
   </div>
   <div class="profile-text">
