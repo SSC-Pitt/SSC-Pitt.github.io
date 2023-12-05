@@ -141,7 +141,7 @@ permalink: /people.html
       •
       <a href="mailto:pranut@cs.pitt.edu">Email</a>
      </p>
-    <p class="info">PhD student in computer science.</p>
+    <p class="info">Assistant Teaching Professor, Software Engineering @ Arizona State University</p>
     <p class="research"><b>Research</b>: IM Awareness; Context-Aware Agents; IoT Setup Management and Modeling; Privacy</p>
   </div>
 </div>
