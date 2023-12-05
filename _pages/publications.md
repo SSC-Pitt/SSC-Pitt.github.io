@@ -6,6 +6,7 @@ permalink: /publications.html
 ---
 <h3>Recent Publications by SSC Lab Members in Reverse Chronological Order</h3>
 
+<h4>2023</h4>
 <div class="publication">
         <a href="https://papers.academic-conferences.org/index.php/ecgbl/article/view/1634" class="title">Enter the Paraverse: Challenging Assumptions of Live Music in the Metaverse</a>
         <div class="authors">Pat Healy, Hannah Standiford</div>
@@ -66,6 +67,8 @@ permalink: /publications.html
         <div class="authors">Maximillian Chis, Huao Li, Keyang Zheng, Michael Lewis, Dana Hughes, and Katia Sycara</div>
         <div class="citation">Proceedings of the Human Factors and Ergonomics Society Annual Meeting …, 2023</div>
 </div>
+
+<h4>2022</h4>
 <div class="publication">
         <a href="https://direct.mit.edu/tacl/article-abstract/doi/10.1162/tacl_a_00507/113020" class="title">Modeling non-cooperative dialogue: Theoretical and empirical insights</a>
         <div class="authors">Anthony Sicilia, Tristan Maidment, Pat Healy, and Malihe Alikhani</div>
@@ -117,7 +120,7 @@ permalink: /publications.html
         <div class="citation">Proceedings of the 16th International Conference of the Learning Sciences, 2022</div>
 </div>
 
-
+<h4>2021</h4>
 <div class="publication">
         <a href="https://books.google.com/books?hl=en&lr=&id=gnJdEAAAQBAJ&oi=fnd&pg=PA63&dq=info:OBioEkdbz8cJ:scholar.google.com&ots=WVP6LdRwMb&sig=rpOkKtPw5cH8ELpA53zaSWCuCq4" class="title">MountainQuest: Designing an Action/Adventure Game to Teach Children About Nutrition</a>
         <div class="authors">Dmitriy Babichenko, Patrick Healy, and Cynthia Danford</div>
