@@ -32,6 +32,54 @@ permalink: /people.html
 
 <div class="person">
   <div class="profile-img">
+    <img src="/assets/img/PatHealy.jpg" alt="Pat" height="200" width="200">
+  </div>
+  <div class="profile-text">
+    <h3>
+      Pat Healy
+    </h3>
+    <p class="links">
+        <a href="mailto:pwh5@pitt.edu">Email</a>
+     </p>
+    <p class="info">PhD Student in Information Science</p>
+    <p class="research"><b>Research</b>: Serious Games in Healthcare, Virtual Worlds, </p>
+  </div>
+</div>
+
+<div class="person">
+  <div class="profile-img">
+    <img src="/assets/img/Pat.png" alt="Pat" height="200" width="200">
+  </div>
+  <div class="profile-text">
+    <h3>
+      Pat Healy
+    </h3>
+    <p class="links">
+        <a href="mailto:pwh5@pitt.edu">Email</a>
+     </p>
+    <p class="info">PhD Student in Information Science</p>
+    <p class="research"><b>Research</b>: Serious Games in Healthcare, Virtual Worlds, </p>
+  </div>
+</div>
+
+<div class="person">
+  <div class="profile-img">
+    <img src="/assets/img/Jennifer.jpg" alt="Abhishek" height="200" width="200">
+  </div>
+  <div class="profile-text">
+    <h3>
+      Jennifer Nwogu
+    </h3>
+    <p class="links">
+        <a href="mailto:jen97@pitt.edu">Email</a>
+     </p>
+    <p class="info">PhD student in Information Science</p>
+    <p class="research"><b>Research</b>: </p>
+  </div>
+</div>
+
+<div class="person">
+  <div class="profile-img">
     <!-- put your profile picture in the /assets/img/ folder, please choose a square picture (H:W=1:1), and then change the value of src to your picture location. -->
     <img src="/assets/img/keyang.jpg" alt="" height="200" width="200">
   </div>
@@ -55,23 +103,11 @@ permalink: /people.html
   </div>
 </div>
 
-<div class="person">
-  <div class="profile-img">
-    <img src="/assets/img/ben-avatar.jpg" alt="Photo of Ben" height="200" width="200">
-  </div>
-  <div class="profile-text">
-    <h3>
-      Ben Stein
-    </h3>
-    <p class="links">
-      <a href="https://benstein.io">Personal site</a> ·
-      <a href="https://www.instagram.com/bensstein">Instagram</a> ·
-      <a href="mailto:ben.stein@pitt.edu">Email</a> ·
-      <a href="https://soundcloud.com/awake-in-pittsburgh">Ben by night</a>
-     </p>
-    <p class="info">PhD student in information science</p>
-    <p class="research"><b>Research</b>: Cyberbullying Mitigation & Intervention; Data Mining; Social Computing</p>
-  </div>
+<div class="subtitle">
+  <h2>
+    Past Members
+  </h2>
+  <hr />
 </div>
 
 <div class="person">
@@ -90,29 +126,6 @@ permalink: /people.html
     <p class="info">PhD student in computer science.</p>
     <p class="research"><b>Research</b>: IM Awareness; Context-Aware Agents; IoT Setup Management and Modeling; Privacy</p>
   </div>
-</div>
-
-<div class="person">
-  <div class="profile-img">
-    <img src="/assets/img/AbhishekViswanathan.jpg" alt="Abhishek" height="200" width="200">
-  </div>
-  <div class="profile-text">
-    <h3>
-      Abhishek Viswanathan
-    </h3>
-    <p class="links">
-        <a href="mailto:abv13@pitt.edu">Email</a>
-     </p>
-    <p class="info">PhD student in Information Science - Telecommunications</p>
-    <p class="research"><b>Research</b>: Community Science, Low-cost Sensing, Accessibility of Environmental Data</p>
-  </div>
-</div>
-
-<div class="subtitle">
-  <h2>
-    Past Members
-  </h2>
-  <hr />
 </div>
 
 <div class="person">
@@ -173,6 +186,25 @@ permalink: /people.html
       <a href="https://alexandernolte.github.io/">Website</a>
      </p>
     <p class="where">Associate Professor @ the University of Tartu</p>
+  </div>
+</div>
+
+<div class="person">
+  <div class="profile-img">
+    <img src="/assets/img/ben-avatar.jpg" alt="Photo of Ben" height="200" width="200">
+  </div>
+  <div class="profile-text">
+    <h3>
+      Ben Stein
+    </h3>
+    <p class="links">
+      <a href="https://benstein.io">Personal site</a> ·
+      <a href="https://www.instagram.com/bensstein">Instagram</a> ·
+      <a href="mailto:ben.stein@pitt.edu">Email</a> ·
+      <a href="https://soundcloud.com/awake-in-pittsburgh">Ben by night</a>
+     </p>
+    <p class="info">PhD student in information science</p>
+    <p class="research"><b>Research</b>: Cyberbullying Mitigation & Intervention; Data Mining; Social Computing</p>
   </div>
 </div>
 
