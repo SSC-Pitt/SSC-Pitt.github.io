@@ -48,7 +48,7 @@ permalink: /people.html
 
 <div class="person">
   <div class="profile-img">
-    <img src="/assets/img/Pat.png" alt="Pat" height="200" width="200">
+    <img src="/assets/img/Pat.jpg" alt="Pat" height="200" width="200">
   </div>
   <div class="profile-text">
     <h3>
