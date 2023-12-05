@@ -114,7 +114,7 @@ permalink: /people.html
 
 <div class="person">
   <div class="profile-img">
-    <img src="https://via.placeholder.com/200x200?text=Placeholder_pic" alt="" height="200" width="200">
+    <img src="/assets/img/claudia.png" alt="" height="200" width="200">
   </div>
   <div class="profile-text">
     <h3>
