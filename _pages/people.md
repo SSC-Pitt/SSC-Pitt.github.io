@@ -55,42 +55,6 @@ permalink: /people.html
   </div>
 </div>
 
-<div class="person">
-  <div class="profile-img">
-    <img src="/assets/img/ben-avatar.jpg" alt="Photo of Ben" height="200" width="200">
-  </div>
-  <div class="profile-text">
-    <h3>
-      Ben Stein
-    </h3>
-    <p class="links">
-      <a href="https://benstein.io">Personal site</a> ·
-      <a href="https://www.instagram.com/bensstein">Instagram</a> ·
-      <a href="mailto:ben.stein@pitt.edu">Email</a> ·
-      <a href="https://soundcloud.com/awake-in-pittsburgh">Ben by night</a>
-     </p>
-    <p class="info">PhD student in information science</p>
-    <p class="research"><b>Research</b>: Cyberbullying Mitigation & Intervention; Data Mining; Social Computing</p>
-  </div>
-</div>
-
-<div class="person">
-  <div class="profile-img">
-    <img src="/assets/img/pranut.jpg" alt="Pranut" height="200" width="200">
-  </div>
-  <div class="profile-text">
-    <h3>
-      Pranut Jain
-    </h3>
-    <p class="links">
-      <a href="https://people.cs.pitt.edu/~pranut/">Personal site</a>
-      •
-      <a href="mailto:pranut@cs.pitt.edu">Email</a>
-     </p>
-    <p class="info">PhD student in computer science.</p>
-    <p class="research"><b>Research</b>: IM Awareness; Context-Aware Agents; IoT Setup Management and Modeling; Privacy</p>
-  </div>
-</div>
 
 <div class="person">
   <div class="profile-img">
@@ -113,6 +77,24 @@ permalink: /people.html
     Past Members
   </h2>
   <hr />
+</div>
+
+<div class="person">
+  <div class="profile-img">
+    <img src="/assets/img/pranut.jpg" alt="Pranut" height="200" width="200">
+  </div>
+  <div class="profile-text">
+    <h3>
+      Pranut Jain
+    </h3>
+    <p class="links">
+      <a href="https://people.cs.pitt.edu/~pranut/">Personal site</a>
+      •
+      <a href="mailto:pranut@cs.pitt.edu">Email</a>
+     </p>
+    <p class="info">PhD student in computer science.</p>
+    <p class="research"><b>Research</b>: IM Awareness; Context-Aware Agents; IoT Setup Management and Modeling; Privacy</p>
+  </div>
 </div>
 
 <div class="person">
@@ -173,6 +155,25 @@ permalink: /people.html
       <a href="https://alexandernolte.github.io/">Website</a>
      </p>
     <p class="where">Associate Professor @ the University of Tartu</p>
+  </div>
+</div>
+
+<div class="person">
+  <div class="profile-img">
+    <img src="/assets/img/ben-avatar.jpg" alt="Photo of Ben" height="200" width="200">
+  </div>
+  <div class="profile-text">
+    <h3>
+      Ben Stein
+    </h3>
+    <p class="links">
+      <a href="https://benstein.io">Personal site</a> ·
+      <a href="https://www.instagram.com/bensstein">Instagram</a> ·
+      <a href="mailto:ben.stein@pitt.edu">Email</a> ·
+      <a href="https://soundcloud.com/awake-in-pittsburgh">Ben by night</a>
+     </p>
+    <p class="info">PhD student in information science</p>
+    <p class="research"><b>Research</b>: Cyberbullying Mitigation & Intervention; Data Mining; Social Computing</p>
   </div>
 </div>
 
