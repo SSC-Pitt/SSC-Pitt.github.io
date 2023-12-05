@@ -116,18 +116,10 @@ permalink: /publications.html
         <div class="authors">Zak Risha, Aditi Mallavarapu, Rosta Farzan, Jaime Booth, Beth Sondel, and Erin. Walker</div>
         <div class="citation">Proceedings of the 16th International Conference of the Learning Sciences, 2022</div>
 </div>
+
+
 <div class="publication">
-        <a href="http://d-scholarship.pitt.edu/43196/" class="title">Enriching Citizen-Science with Data Storytelling Workshops</a>
-        <div class="authors">Abhishek Viswanathan, Amy Babay, and Rosta Farzan</div>
-        <div class="citation"></div>
-</div>
-<div class="publication">
-        <a href="https://dl.acm.org/doi/pdf/10.1145/3572823" class="title">Social Computing</a>
-        <div class="authors">Kevin Crowston, Laura Dabbish, Daniel Zang, Peter Brusilovsky, Carlos Castillo, Ed Chi, Rogério de Paula, Xuefei Nancy Deng, Steven Dow, Boi Faltings, Rosta Farzan, Sue Fussell, Liz Gerber, Sean Goggins, Yoram Kalman, Karrie Karahalios, Emre Kiciman, Joe Konstan, Cliff Lampe, David McDonald, Oded Nov, Alice H Oh, Lionel P Robert Jr, Rodrygo LT Santos, Sarita Schoenebeck, Markus Strohmaier, Julita Vassileva, Pamela Wisniewski, Xing Xie, Rebecca Malone, Scott Delman, Sara Kate Heukerott, Stacey Schick, Craig Rodkin, Barbara Ryan, Bernadette Shade, Anna Lacson, and Darshanie Jattan</div>
-        <div class="citation"></div>
-</div>
-<div class="publication">
-        <a href="https://books.google.com/books?hl=en&lr=&id=gnJdEAAAQBAJ&oi=fnd&pg=PA63&dq=info:OBioEkdbz8cJ:scholar.google.com&ots=WVP6LdRrOc&sig=G8hIgYLc-VS8JJpVikbps1ZLhU8" class="title">MountainQuest: Designing an Action/Adventure Game to Teach Children About Nutrition</a>
+        <a href="https://books.google.com/books?hl=en&lr=&id=gnJdEAAAQBAJ&oi=fnd&pg=PA63&dq=info:OBioEkdbz8cJ:scholar.google.com&ots=WVP6LdRwMb&sig=rpOkKtPw5cH8ELpA53zaSWCuCq4" class="title">MountainQuest: Designing an Action/Adventure Game to Teach Children About Nutrition</a>
         <div class="authors">Dmitriy Babichenko, Patrick Healy, and Cynthia Danford</div>
         <div class="citation">European Conference on Games Based Learning, 63-71, 2021</div>
 </div>
@@ -155,9 +147,4 @@ permalink: /publications.html
         <a href="https://journals.sagepub.com/doi/abs/10.1177/1071181321651269" class="title">Human Theory of Mind Inference in Search and Rescue Tasks</a>
         <div class="authors">Huao Li, Keyang Zheng, Michael Lewis, Dana Hughes, and Katia Sycara</div>
         <div class="citation">Proceedings of the Human Factors and Ergonomics Society Annual Meeting 65 (1 …, 2021</div>
-</div>
-<div class="publication">
-        <a href="https://link.springer.com/chapter/10.1007/978-3-031-21671-8_10" class="title">Sequential Theory of Mind Modeling in Team Search and Rescue Tasks</a>
-        <div class="authors">Huao Li, Long Le, Max Chis, Keyang Zheng, Dana Hughes, Michael Lewis, and Katia Sycara</div>
-        <div class="citation"></div>
-</div>
+</div>  
