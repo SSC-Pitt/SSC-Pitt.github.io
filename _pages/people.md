@@ -32,6 +32,22 @@ permalink: /people.html
 
 <div class="person">
   <div class="profile-img">
+    <img src="" alt="Kimia" height="200" width="200">
+  </div>
+  <div class="profile-text">
+    <h3>
+      Kimia Ghadimi
+    </h3>
+    <p class="links">
+        <a href="mailto:kig30@pitt.edu">Email</a>
+     </p>
+    <p class="info">Undergraduate Student in Computational Social Science</p>
+    <p class="research"><b>Research</b>: </p>
+  </div>
+</div>
+
+<div class="person">
+  <div class="profile-img">
     <img src="/assets/img/Pat.jpg" alt="Pat" height="200" width="200">
   </div>
   <div class="profile-text">
