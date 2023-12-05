@@ -1,4 +1,5 @@
 ---
+classes: wide
 title: "Publications"
 excerpt: "List of publications"
 sitemap: true
