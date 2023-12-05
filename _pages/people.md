@@ -48,7 +48,7 @@ permalink: /people.html
 
 <div class="person">
   <div class="profile-img">
-    <img src="/assets/img/Jennifer.jpg" alt="Abhishek" height="200" width="200">
+    <img src="/assets/img/Jennifer.jpg" alt="Jennifer" height="200" width="200">
   </div>
   <div class="profile-text">
     <h3>
@@ -58,6 +58,22 @@ permalink: /people.html
         <a href="mailto:jen97@pitt.edu">Email</a>
      </p>
     <p class="info">PhD student in Information Science</p>
+    <p class="research"><b>Research</b>: </p>
+  </div>
+</div>
+
+<div class="person">
+  <div class="profile-img">
+    <img src="/assets/img/AbhishekViswanathan.jpg" alt="Abhishek" height="200" width="200">
+  </div>
+  <div class="profile-text">
+    <h3>
+      Abhishek Viswanathan
+    </h3>
+    <p class="links">
+        <a href="mailto:abv13@pitt.edu">Email</a>
+     </p>
+    <p class="info">PhD student in Information Science with a concentration in Telecommunications</p>
     <p class="research"><b>Research</b>: </p>
   </div>
 </div>
