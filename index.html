@@ -25,5 +25,27 @@ At the Sustainable Social Computing lab at the University of Pittsburgh, we rese
 </ul>
 
 <p>You can view more details about our projects <a href='projects.html'>here</a>.</p>
+
+<script type="text/javascript">
+
+  function loadPubs()
+  {
+    const Http = new XMLHttpRequest();
+    const url='/publications.html';
+    Http.open("GET", url);
+    Http.send();
+
+    Http.onreadystatechange = (e) => {
+      console.log(Http.responseText)
+    }
+  }
+
+  window.onload = function() {
+    loadPubs();
+  };
+</script>
+
+
+
 </dev>
 
