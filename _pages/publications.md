@@ -9,7 +9,7 @@ permalink: /publications.html
 
 <h4>2023</h4>
 <div class="publication">
-        <a href="https://books.google.com/books?hl=en&lr=&id=aeLoEAAAQBAJ&oi=fnd&pg=PA251&dq=info:2cKIDRyXdb0J:scholar.google.com&ots=kCERwp1wbL&sig=-jhnz9-9N0pLFqElgrFo9L56mYk" class="title">Enter the Paraverse: Challenging Assumptions of Live Music in the Metaverse [C]</a>
+        <a href="https://books.google.com/books?hl=en&lr=&id=aeLoEAAAQBAJ&oi=fnd&pg=PA251&dq=info:2cKIDRyXdb0J:scholar.google.com&ots=kCERwqVy7E&sig=9Uldzanbir74UiQdI-sFWjGAqFY" class="title">Enter the Paraverse: Challenging Assumptions of Live Music in the Metaverse [C]</a>
         <div class="authors">Pat Healy, Hannah Standiford</div>
         <div class="citation">European Conference on Games Based Learning, 2023, 17 (1): 251 259, 2023</div>
 </div>
@@ -121,14 +121,14 @@ permalink: /publications.html
         <div class="citation">Proceedings of the ACM on Human-Computer Interaction 6 (CSCW2), 1-31, 2022</div>
 </div>
 <div class="publication">
-        <a href="https://search.proquest.com/openview/68b2c4f22b5be1f331660ae324f7f2ea/1?pq-origsite=gscholar&cbl=18750&diss=y" class="title">Collaborative Contribution of News-Related User-Generated Content in Social Media: The Role and Impact of Gatekeepers</a>
-        <div class="authors">Ang Li</div>
-        <div class="citation">University of Pittsburgh, 2022</div>
-</div>
-<div class="publication">
         <a href="https://dl.acm.org/doi/abs/10.1145/3555195" class="title">Identifying and Understanding Social Media Gatekeepers: A Case Study of Gatekeepers for Immigration Related News on Twitter</a>
         <div class="authors">Ang Li, Rosta Farzan, Yu-Ru Lin, Yingfan Zhou, Xian Teng, and Muheng Yan</div>
         <div class="citation">Proceedings of the ACM on Human-Computer Interaction 6 (CSCW2), 1-25, 2022</div>
+</div>
+<div class="publication">
+        <a href="https://search.proquest.com/openview/68b2c4f22b5be1f331660ae324f7f2ea/1?pq-origsite=gscholar&cbl=18750&diss=y" class="title">Collaborative Contribution of News-Related User-Generated Content in Social Media: The Role and Impact of Gatekeepers</a>
+        <div class="authors">Ang Li</div>
+        <div class="citation">University of Pittsburgh, 2022</div>
 </div>
 <div class="publication">
         <a href="https://dl.acm.org/doi/abs/10.1145/3557022" class="title">Use Ping Wisely: A study of team communication and performance under lean affordance</a>
@@ -136,46 +136,13 @@ permalink: /publications.html
         <div class="citation">Transaction on Social Computing, 2022</div>
 </div>
 <div class="publication">
-        <a href="https://academic.oup.com/iwc/advance-article-abstract/doi/10.1093/iwc/iwac033/6867770" class="title">Let’s Work Together! Wikipedia Language Communities’ Attempts to Represent Events Worldwide</a>
-        <div class="authors">Ang Li, Rosta Farzan, and Claudia López</div>
-        <div class="citation">Interacting with Computers, iwac033, 2022</div>
-</div>
-<div class="publication">
         <a href="https://par.nsf.gov/biblio/10380566" class="title">Proposing a Role Based Framework for Data Literacy</a>
         <div class="authors">Zak Risha, Aditi Mallavarapu, Rosta Farzan, Jaime Booth, Beth Sondel, and Erin. Walker</div>
         <div class="citation">Proceedings of the 16th International Conference of the Learning Sciences, 2022</div>
 </div>
 
-<h4>2021</h4>
 <div class="publication">
-        <a href="https://books.google.com/books?hl=en&lr=&id=gnJdEAAAQBAJ&oi=fnd&pg=PA63&dq=info:OBioEkdbz8cJ:scholar.google.com&ots=WVP6LdRwMb&sig=rpOkKtPw5cH8ELpA53zaSWCuCq4" class="title">MountainQuest: Designing an Action/Adventure Game to Teach Children About Nutrition</a>
-        <div class="authors">Dmitriy Babichenko, Patrick Healy, and Cynthia Danford</div>
-        <div class="citation">European Conference on Games Based Learning, 63-71, 2021</div>
+        <a href="https://ieeexplore.ieee.org/abstract/document/9758011/" class="title">The Impact of COVID-19 on Communication Network Outages</a>
+        <div class="authors">Faris Alotibi, Alekhya Velagapudi, Akshay Madan, Kuheli Sai, Abhishek Viswanathan, Amy Babay, David Tipper, and Prashant Krishnamurthy</div>
+        <div class="citation">2022 18th International Conference on the Design of Reliable Communication …, 2022</div>
 </div>
-<div class="publication">
-        <a href="https://dl.acm.org/doi/abs/10.1145/3461564.3461574" class="title">Designing to stop live streaming cyberbullying: a case study of twitch live streaming platform</a>
-        <div class="authors">Yingfan Zhou, and Rosta Farzan</div>
-        <div class="citation">Proceedings of the 10th International Conference on Communities …, 2021</div>
-</div>
-<div class="publication">
-        <a href="https://www.tandfonline.com/doi/full/10.1080/10705422.2021.1963383" class="title">RU connected? Engaging youth in designing a mobile application for facilitating community organizing and engagement</a>
-        <div class="authors">Mary Ohmer, Jaime Booth, and Rosta Farzan</div>
-        <div class="citation">Journal of Community Practice 29 (3), 257-279, 2021</div>
-</div>
-<div class="publication">
-        <a href="https://link.springer.com/article/10.1007/s10606-021-09399-z" class="title">Context-based automated responses of unavailability in mobile messaging</a>
-        <div class="authors">Pranut Jain, Rosta Farzan, and Adam J Lee</div>
-        <div class="citation">Computer Supported Cooperative Work (CSCW) 30 (3), 307-349, 2021</div>
-</div>
-<div class="publication">
-        <a href="https://dl.acm.org/doi/abs/10.1145/3488392.3488405" class="title">Collaboration in editing world wide news in four Wikipedia language communities</a>
-        <div class="authors">Ang Li, Rosta Farzan, and Claudia Lopez</div>
-        <div class="citation">X Latin American Conference on Human Computer Interaction, 1-4, 2021</div>
-</div>
-<div class="publication">
-        <a href="https://journals.sagepub.com/doi/abs/10.1177/1071181321651269" class="title">Human Theory of Mind Inference in Search and Rescue Tasks</a>
-        <div class="authors">Huao Li, Keyang Zheng, Michael Lewis, Dana Hughes, and Katia Sycara</div>
-        <div class="citation">Proceedings of the Human Factors and Ergonomics Society Annual Meeting 65 (1 …, 2021</div>
-</div>  
-
-
