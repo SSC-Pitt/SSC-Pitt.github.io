@@ -3,12 +3,7 @@ layout: single
 author_profile: false
 sidebar:
   - title: "Recent Publications"
-    text: "<ul>
-      <li>Biehl, J., Farzan, R., and Zhou, Y. (2022). Can Anybody Help Me?: Using Community Help Desk Call Records to Examine the Impact of 
-        Digital Divides During a Global Pandemic, CHI2022</li>
-      <li>Li, A., Farzan, R., and Lopez, C. (2021). Let’s work together! Wikipedia language communities’ attempts in representation of worldwide events. X Latin American Conference
-        on Human Computer Interaction</li>
-</ul>"
+    text: "<ul></ul>"
   - title: "News"
     text: "Welcome to our new member, <a href='https://www.linkedin.com/in/jennifer-nwogu2020/' title='_target'>Jennifer Nwogu</a> who joined us in Jan 2022 from Texas."
   - title: "Contact"
@@ -20,11 +15,36 @@ sidebar:
 ---
 <dev class="index welcome-text">
 <img class="group_image" src="SCC-picnic.jpg"/>
-At the Sustainable Social Computing lab at the University of Pittsburgh, we research the interplay of technology and society in terms of 
-<p>How social computing systems can be studied, designed, and implemented to more effectively achieve the goals of their different stakeholders</p>
-<p>What roles these technologies play within different communities and how individuals and communities are effected by them</p>
-<p>How we can partner with communities and individuals who have been historically excluded from the design and implementation of information systems to create more equitable and just technology</p>
+At the Sustainable Social Computing lab at the University of Pittsburgh, we research the interplay of technology and society in terms of...
+
+<ul>
+  <li>How social computing systems can be studied, designed, and implemented to more effectively achieve the goals of their different stakeholders</li>
+  <li>What roles these technologies play within different communities and how individuals and communities are effected by them</li>
+  <li>How we can partner with communities and individuals who have been historically excluded from the design and implementation of information systems to create more equitable and just technology</li>
+</ul>
 
 <p>You can view more details about our projects <a href='projects.html'>here</a>.</p>
+
+<script type="text/javascript">
+
+  function loadPubs()
+  {
+    const Http = new XMLHttpRequest();
+    const url='/publications.html';
+    Http.open("GET", url);
+    Http.send();
+
+    Http.onreadystatechange = (e) => {
+      console.log(Http.responseText)
+    }
+  }
+
+  window.onload = function() {
+    loadPubs();
+  };
+</script>
+
+
+
 </dev>
 
