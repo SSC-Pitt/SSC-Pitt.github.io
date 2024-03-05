@@ -115,9 +115,9 @@ permalink: /people.html
       <a href="https://keyangz.me">Website</a>
     </p>
     <!-- Well this is obvious, change the value accordingly. -->
-    <p class="info">PhD student in information science.</p>
+    <p class="info">PhD Candidate in information science.</p>
     <!-- Next is your research interests, if you are not sure or not decided yet, just skip this section all together, don't delete <b>Research</b>: if your are just writing the areas of your interests. And you can also write a short paragraph about your researches if you are the boss. -->
-    <p class="research"><b>Research</b>: Human Computer Interaction, Online Collaboration, Game Analysis, Human Agent Teaming</p>
+    <p class="research"><b>Research</b>: Human Computer Interaction, Game Analysis, Human Agent Teaming, Online Collaboration</p>
   </div>
 </div>
 
