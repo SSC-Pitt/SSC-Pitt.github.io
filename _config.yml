@@ -26,6 +26,8 @@ repository               : "https://github.com/SSC-Pitt"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
+header:
+  image                  : /assets/images/image-filename.jpg
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
