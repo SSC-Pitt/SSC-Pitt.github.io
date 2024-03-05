@@ -20,18 +20,19 @@ div.masthead__inner-wrap {
 }
 
 //home page, index page
-.initial-content div#main {
-  max-width: 98%;
-}
-
 @media (min-width: 80em){
-div#main .sidebar {
-  width: calc(500px - 1em)
-}
+  #main {
+    max-width: 98%;
+  }
+  
 
-div#main article.page {
-  width: calc(100% - 500px);
-}
+  #main .sidebar {
+   width: calc(500px - 1em)
+  }
+
+  #main article.page {
+    width: calc(100% - 500px);
+  }
 }
 
 // profile page
