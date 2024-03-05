@@ -36,7 +36,9 @@ At the Sustainable Social Computing lab at the University of Pittsburgh, we rese
     Http.send();
 
     Http.onreadystatechange = (e) => {
-      console.log(Http.responseText)
+      var txt = Http.responseText;
+      var firstPubInd = txt.indexOf("<div class=\"publication\">");
+      console.log(firstPubInd);
     }
   }
 
@@ -44,8 +46,6 @@ At the Sustainable Social Computing lab at the University of Pittsburgh, we rese
     loadPubs();
   };
 </script>
-
-
 
 </dev>
 

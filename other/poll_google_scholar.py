@@ -45,7 +45,7 @@ def make_html(entry):
 	return html_string
 
 if __name__ == '__main__':
-	ids = ['vbwKo5QAAAAJ', 'uQTkheYAAAAJ', 'aq5E6LEAAAAJ']
+	ids = ['vbwKo5QAAAAJ', 'uQTkheYAAAAJ', 'aq5E6LEAAAAJ', 'LOLH2kkAAAAJ']
 	pubs = []
 	for id in ids:
 		pubs.extend(get_publications(id))
