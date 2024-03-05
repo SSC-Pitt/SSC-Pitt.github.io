@@ -92,7 +92,7 @@ permalink: /people.html
         <a href="mailto:abv13@pitt.edu">Email</a>
      </p>
     <p class="info">PhD student in Information Science with a concentration in Telecommunications</p>
-    <p class="research"><b>Research</b>: </p>
+    <p class="research"><b>Research</b>: Community Science, Distributed Sensor Networks, Participatory Action Research, Engaged Scholarship</p>
   </div>
 </div>
 
