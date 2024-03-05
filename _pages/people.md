@@ -60,7 +60,7 @@ permalink: /people.html
         <a href="https://patwhealy.com/">Website</a>
      </p>
     <p class="info">PhD Student in Information Science</p>
-    <p class="research"><b>Research</b>: Serious Games in Healthcare, Virtual Worlds, </p>
+    <p class="research"><b>Research</b>: Serious Games in Healthcare, Virtual Worlds, Civic Engagement, and Historic Preservation.</p>
   </div>
 </div>
 

@@ -9,9 +9,9 @@ permalink: /publications.html
 
 <h4>2023</h4>
 <div class="publication">
-        <a href="https://papers.academic-conferences.org/index.php/ecgbl/article/view/1634" class="title">Enter the Paraverse: Challenging Assumptions of Live Music in the Metaverse</a>
+        <a href="https://books.google.com/books?hl=en&lr=&id=aeLoEAAAQBAJ&oi=fnd&pg=PA251&dq=info:2cKIDRyXdb0J:scholar.google.com&ots=kCERwp1wbL&sig=-jhnz9-9N0pLFqElgrFo9L56mYk" class="title">Enter the Paraverse: Challenging Assumptions of Live Music in the Metaverse [C]</a>
         <div class="authors">Pat Healy, Hannah Standiford</div>
-        <div class="citation">European Conference on Games Based Learning 17 (1), 251-259, 2023</div>
+        <div class="citation">European Conference on Games Based Learning, 2023, 17 (1): 251 259, 2023</div>
 </div>
 <div class="publication">
         <a href="https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=19423888&AN=161698454&h=gxkC9xoqLOUPSyEGEdcJVj3Z%2BXbqdlMl2A6%2BC8KdBIuBTWsvXamNyPdZSqAxOSPfq4%2BQ4sX1TWuL0LPNUTN7%2FA%3D%3D&crl=c" class="title">Who Engages and Why It Matters?: Describing Participant Engagement in a Serious Game Intervention for Patients With Advanced Cancer.</a>
@@ -24,9 +24,9 @@ permalink: /publications.html
         <div class="citation">JMIR serious games 11 (1), e42025, 2023</div>
 </div>
 <div class="publication">
-        <a href="https://dl.acm.org/doi/abs/10.1145/3604248" class="title">Co-Designing with Users the Explanations for a Proactive Auto-Response Messaging Agent</a>
-        <div class="authors">Pranut Jain, Rosta Farzan, and Adam J Lee</div>
-        <div class="citation">Proceedings of the ACM on Human-Computer Interaction 7 (MHCI), 1-23, 2023</div>
+        <a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.4852" class="title">Motivating experts to contribute to digital public goods: A personalized field experiment on Wikipedia</a>
+        <div class="authors">Yan Chen, Rosta Farzan, Robert Kraut, Iman Yeckehzaare, and Ark Fangzhou Zhang</div>
+        <div class="citation">Management Science, 2023</div>
 </div>
 <div class="publication">
         <a href="https://www.tandfonline.com/doi/abs/10.1080/15388220.2023.2186417" class="title">Middle School Students’ Experiences with Cyberbullying and Perspectives Toward Prevention and Bystander Intervention in Schools</a>
@@ -34,19 +34,34 @@ permalink: /publications.html
         <div class="citation">Journal of School Violence 22 (3), 339-352, 2023</div>
 </div>
 <div class="publication">
-        <a href="https://dl.acm.org/doi/abs/10.1145/3585088.3593896" class="title">Comic-boarding with Children: Understanding the use of Language in Human-Human and Human-Agent Dialogue</a>
-        <div class="authors">Jennifer Nwogu, Amanda Buddemeyer, Rosta Farzan, Angela EB Stewart, Erin Walker</div>
-        <div class="citation">Proceedings of the 22nd Annual ACM Interaction Design and Children …, 2023</div>
-</div>
-<div class="publication">
         <a href="https://www.sciencedirect.com/science/article/pii/S2214782923000635" class="title">Development and codesign of flourish: a digital suicide prevention intervention for LGBTQ+ youth who have experienced online victimization</a>
         <div class="authors">Candice Biernesser, Emma Win, César Escobar-Viera, Rosta Farzan, Morgan Rose, Tina Goldstein</div>
         <div class="citation">Internet Interventions 34, 100663, 2023</div>
 </div>
 <div class="publication">
+        <a href="https://dl.acm.org/doi/abs/10.1145/3604248" class="title">Co-Designing with Users the Explanations for a Proactive Auto-Response Messaging Agent</a>
+        <div class="authors">Pranut Jain, Rosta Farzan, and Adam J Lee</div>
+        <div class="citation">Proceedings of the ACM on Human-Computer Interaction 7 (MHCI), 1-23, 2023</div>
+</div>
+<div class="publication">
+        <a href="https://dl.acm.org/doi/abs/10.1145/3585088.3593896" class="title">Comic-boarding with Children: Understanding the use of Language in Human-Human and Human-Agent Dialogue</a>
+        <div class="authors">Jennifer Nwogu, Amanda Buddemeyer, Rosta Farzan, Angela EB Stewart, Erin Walker</div>
+        <div class="citation">Proceedings of the 22nd Annual ACM Interaction Design and Children …, 2023</div>
+</div>
+<div class="publication">
+        <a href="https://arxiv.org/abs/2312.11497" class="title">The Public Algorithms Survey in Allegheny County</a>
+        <div class="authors">Yu-Ru Lin, Beth Schwanke, Rosta Farzan, Bonnie Fan, Motahhare Eslami, Hong Shen, and Sarah Fox</div>
+        <div class="citation">arXiv preprint arXiv:2312.11497, 2023</div>
+</div>
+<div class="publication">
         <a href="https://dl.acm.org/doi/abs/10.1145/3611061" class="title">Understanding Player’s Gesture-Based Communicative Behavior in MOBA Games</a>
         <div class="authors">Keyang Zheng, and Rosta Farzan</div>
         <div class="citation">Proceedings of the ACM on Human-Computer Interaction 7 (CHI PLAY), 1068-1090, 2023</div>
+</div>
+<div class="publication">
+        <a href="https://academic.oup.com/iwc/article-abstract/35/2/69/6867770" class="title">Let’s Work Together! Wikipedia Language Communities’ Attempts to Represent Events Worldwide</a>
+        <div class="authors">Ang Li, Rosta Farzan, and Claudia López</div>
+        <div class="citation">Interacting with Computers 35 (2), 69-82, 2023</div>
 </div>
 <div class="publication">
         <a href="https://dl.acm.org/doi/abs/10.1145/3593743.3593764" class="title">Designing and assessing a community-engaged digital enablement program: a Case Study</a>
@@ -59,14 +74,24 @@ permalink: /publications.html
         <div class="citation">ACM Transactions on Social Computing 5 (1-4), 1-26, 2023</div>
 </div>
 <div class="publication">
+        <a href="https://ieeexplore.ieee.org/abstract/document/10393881/" class="title">A Framework for Intervention Based Team Support in Time Critical Tasks</a>
+        <div class="authors">Dana Hughes, Huao Li, Max Chis, Ini Oguntola, Simon Stepputtis, Keyang Zheng, Joseph Campbell, Katia Sycara, and Michael Lewis</div>
+        <div class="citation">2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC …, 2023</div>
+</div>
+<div class="publication">
+        <a href="https://ieeexplore.ieee.org/abstract/document/10394414/" class="title">Personalized Decision Supports based on Theory of Mind Modeling and Explainable Reinforcement Learning</a>
+        <div class="authors">Huao Li, Yao Fan, Keyang Zheng, Michael Lewis, and Katia Sycara</div>
+        <div class="citation">2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC …, 2023</div>
+</div>
+<div class="publication">
         <a href="https://journals.sagepub.com/doi/abs/10.1177/21695067231205569" class="title">Sentiment analysis of Artificial Advisors in Search and Rescue Tasks</a>
         <div class="authors">Huao Li, Maximilian Chis, Keyang Zheng, Michael Lewis, Dana Hughes, and Katia Sycara</div>
-        <div class="citation">Proceedings of the Human Factors and Ergonomics Society Annual Meeting …, 2023</div>
+        <div class="citation">Proceedings of the Human Factors and Ergonomics Society Annual Meeting 67 (1 …, 2023</div>
 </div>
 <div class="publication">
         <a href="https://journals.sagepub.com/doi/abs/10.1177/21695067231193677" class="title">The Cognitive Load–Productivity Tradeoff in Task Switching</a>
         <div class="authors">Maximillian Chis, Huao Li, Keyang Zheng, Michael Lewis, Dana Hughes, and Katia Sycara</div>
-        <div class="citation">Proceedings of the Human Factors and Ergonomics Society Annual Meeting …, 2023</div>
+        <div class="citation">Proceedings of the Human Factors and Ergonomics Society Annual Meeting 67 (1 …, 2023</div>
 </div>
 
 <h4>2022</h4>
@@ -152,3 +177,5 @@ permalink: /publications.html
         <div class="authors">Huao Li, Keyang Zheng, Michael Lewis, Dana Hughes, and Katia Sycara</div>
         <div class="citation">Proceedings of the Human Factors and Ergonomics Society Annual Meeting 65 (1 …, 2021</div>
 </div>  
+
+
