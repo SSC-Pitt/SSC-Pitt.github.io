@@ -1,6 +1,5 @@
 ---
 title: "Projects"
-layout: single
 classes: wide
 excerpt: "Our current projects"
 sitemap: true
